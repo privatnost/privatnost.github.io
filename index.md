@@ -71,7 +71,7 @@ Conversion notes:
    </td>
   </tr>
    </table>
-   ![](/images/pbz.jpg)
+   ![](/images/pbz.png)
    <table>
 
 <tr>
