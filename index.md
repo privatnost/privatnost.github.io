@@ -70,7 +70,9 @@ Conversion notes:
    <td>
    </td>
   </tr>
-   </table><table>
+   </table>
+   ![](/images/pbz.jpg)
+   <table>
 
 <tr>
    <td><strong>PBZ</strong>
