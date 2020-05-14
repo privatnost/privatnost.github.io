@@ -70,7 +70,9 @@ Conversion notes:
    <td>
    </td>
   </tr>
-  <tr>
+   </table><table>
+
+<tr>
    <td><strong>PBZ</strong>
    </td>
   </tr>
@@ -110,6 +112,8 @@ Conversion notes:
    <td>
    </td>
   </tr>
+     </table><table>
+
   <tr>
    <td><strong>Raiffeissen Bank</strong>
    </td>
@@ -154,6 +158,8 @@ Conversion notes:
    <td>
    </td>
   </tr>
+     </table><table>
+
   <tr>
    <td><strong>OTP banka</strong>
    </td>
