@@ -266,8 +266,8 @@
 
 **VISA prepaid kartica** omogućuje sigurno plaćanje putem interneta. Uz limitiranje visine sredstava na računu i nemogućnost odlaska u minus**.**
 
-**Internet bankarstvo**- korištenje svih funkcija našeg računa preko interneta poput prijenosa sredstava, plaćanja računa, provjera stanja računa… 
+**Internet bankarstvo** korištenje svih funkcija našeg računa preko interneta poput prijenosa sredstava, plaćanja računa, provjera stanja računa… 
 
-**Mobilno bankarstvo- **korištenje svih funkcija našeg računa preko aplikacije na mobitelu
+**Mobilno bankarstvo** korištenje svih funkcija našeg računa preko aplikacije na mobitelu
 
 
