@@ -2,6 +2,6 @@
 ## Koja banka nudi najbolji studentski paket?
 ![](images/svinjica.jpg)
 
-{{ "/bankarski-paketi-za-mlade" | absolute_url }}
-{{ "/online-banke" | absolute_url }}
-{{ "/online-brokeri" | absolute_url }}
+[Bankarski paketi za mlade]({{ "/bankarski-paketi-za-mlade" | absolute_url }})
+[Online Banke]({{ "/online-banke" | absolute_url }})
+[Online Brokeri]({{ "/online-brokeri" | absolute_url }})
