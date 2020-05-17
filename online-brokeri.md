@@ -49,7 +49,7 @@
 
 **Preporuka  za investitore koje privlači nizak trošak i profesionalno okruženje investiranja s velikim izborom instrumenata**
 
-
+![](/images/plus500.png)
 <table>
   <tr>
    <td colspan="2" ><strong>Plus500</strong>
