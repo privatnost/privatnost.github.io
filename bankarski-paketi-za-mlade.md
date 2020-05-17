@@ -179,6 +179,7 @@
   <tr>
    <td>
    </td>
+    ![](/images/erste.png)
   </tr>
   <tr>
    <td><strong>Erste banka</strong>
