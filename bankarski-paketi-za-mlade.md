@@ -218,7 +218,6 @@
   </tr>
   <tr>
    <td>
-![](/images/hpb.jpg)
 <table>
   <tr>
    <td><strong>Hrvatska poštanska banka</strong>
