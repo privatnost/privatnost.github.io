@@ -1,5 +1,5 @@
 # E- banke
- ![](/images/revolut.jpg)
+ ![](/images/revolut1.png)
 <table>
   <tr>
    <td colspan="2" ><strong>Revolut</strong>
