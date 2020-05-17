@@ -179,8 +179,8 @@
   <tr>
    <td>
    </td>
-    ![](/images/erste.png)
   </tr>
+   ![](/images/erste.png)
   <tr>
    <td><strong>Erste banka</strong>
    </td>
