@@ -188,7 +188,7 @@ KeksPay je Hrvatska aplikacija pomoću koje se šalje i prima novac na jednostav
 
 Monese sigurna i jednostavna aplikacija za transfer sredstava i praćenje troškova. Odabirom Monese osigurajte si bolje planiranje troškova.
 
- ![](/images/monzo.png)
+ ![](/images/mozo.png)
 <table>
   <tr>
    <td colspan="2" ><strong>Monzo</strong>
