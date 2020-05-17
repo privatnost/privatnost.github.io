@@ -136,8 +136,9 @@
    <td>
    </td>
   </tr>
-     </table><table>
+   </table>
    ![](/images/otp.png)
+   <table>
 
   <tr>
    <td><strong>OTP banka</strong>
