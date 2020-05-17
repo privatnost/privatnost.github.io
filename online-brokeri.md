@@ -143,7 +143,7 @@
 
 **Preporuka se za investitore koje zanima društveno investiranje (kopiranje drugih investitora na tržištu)**
 
-
+![](/images/tradestation.png)
 <table>
   <tr>
    <td colspan="2" ><strong>Trade station</strong>
@@ -190,7 +190,7 @@
 
 **Preporuka za investitore koje zanima Američka burza i dugoročno ulaganje**
 
-
+![](/images/oanda.png)
 <table>
   <tr>
    <td colspan="2" ><strong>OANDA</strong>
@@ -237,7 +237,7 @@
 
 **Preporuka za forex investitore koji žele jednostavno sučelje i napredne alate za analizu**
 
-
+![](/images/trade.jpg)
 <table>
   <tr>
    <td colspan="2" ><strong>Trading 212</strong>
