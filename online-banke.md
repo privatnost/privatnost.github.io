@@ -186,7 +186,7 @@ KeksPay je Hrvatska aplikacija pomoću koje se šalje i prima novac na jednostav
   </tr>
 </table>
 
-
+Monese sigurna i jednostavna aplikacija za transfer sredstava i praćenje troškova. Odabirom Monese osigurajte si bolje planiranje troškova.
 
 <table>
   <tr>
