@@ -46,7 +46,7 @@
 
 **S revolutom bolje upravljate novcem zbog opcije analiza potrošnje. Slanje novca diljem svijeta bez skrivenih naknada nikad nije bilo jednostavnije. Možete kupovati zlato, kriptovalute i dionice. Revolut ima jak sustav borbe protiv prijevara, jednostavnim klikom registrirajte se i zakoračite u svijet novca.**
 
-
+ ![](/images/n26.jpg)
 <table>
   <tr>
    <td colspan="2" ><strong>N26</strong>
