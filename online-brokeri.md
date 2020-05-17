@@ -96,7 +96,7 @@
 
 **Preporuka za iskusne investitore koji traže platformu za jednostavno korištenje**
 
-![](/images/eToro.png)
+![](/images/ee1.png)
 <table>
   <tr>
    <td colspan="2" ><strong>eToro</strong>
