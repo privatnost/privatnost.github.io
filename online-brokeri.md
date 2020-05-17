@@ -284,7 +284,7 @@
 
 **Preporuka za investitore koji traže niske troškove i velik izbor dionica**
 
-
+![](/images/pepper.png)
 <table>
   <tr>
    <td colspan="2" ><strong>Papperstone</strong>
