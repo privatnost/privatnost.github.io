@@ -136,7 +136,7 @@
    <td>
    </td>
   </tr>
-     </table>
+     </table><table>
 
   <tr>
    <td><strong>OTP banka</strong>
