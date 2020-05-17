@@ -140,7 +140,7 @@
 </table>
 
 
-KeksPay je Hrvatska aplikacija pomoću koje se šalje i prima novac na jednostavan i siguran način bez ikakvih naknada i dugačkih upisivanja šifri. Klikom na: **registrirajte se ! **olakšajte si  buduće transakcije.
+**KeksPay je Hrvatska aplikacija pomoću koje se šalje i prima novac na jednostavan i siguran način bez ikakvih naknada i dugačkih upisivanja šifri. Klikom na: registrirajte se ! olakšajte si  buduće transakcije.**
 
  ![](/images/monese.png)
 <table>
@@ -233,6 +233,6 @@ KeksPay je Hrvatska aplikacija pomoću koje se šalje i prima novac na jednostav
 </table>
 
 
-Monzo je jednostavna aplikacija za upravljanje štednjom i transfer sredstava. Preporuka je za osobe koje putuju zbog ažurnih i brzih informacija o valutnim i drugih pogodnosti. Odabirom Monzo sva buduća putovanja će postati jednostavnija.
+**Monzo je jednostavna aplikacija za upravljanje štednjom i transfer sredstava. Preporuka je za osobe koje putuju zbog ažurnih i brzih informacija o valutnim i drugih pogodnosti. Odabirom Monzo sva buduća putovanja će postati jednostavnija.**
 
 **E- banke su FinTech ili financijska start-up poduzeća u kojima možete otvoriti bankarski račun s brojnim pogodnostima putem online registracije.**
