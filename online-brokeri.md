@@ -331,7 +331,7 @@
 
 **Preporuka za forex investitore koje zanima Američko tržište**
 
-![](/images/revolut.jpg)
+![](/images/revolut1.jpg)
 <table>
   <tr>
    <td colspan="2" ><strong>Revolut (trading)</strong>
