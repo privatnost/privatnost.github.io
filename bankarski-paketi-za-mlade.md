@@ -180,8 +180,8 @@
    <td>
    </td>
   </tr>
-   ![](/images/erste.png)
   <tr>
+    ![](/images/erste.png)
    <td><strong>Erste banka</strong>
    </td>
   </tr>
