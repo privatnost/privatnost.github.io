@@ -93,7 +93,7 @@
 
 **N26 je mobilno bankarstvo koje omogućava prijenos sredstava, štednju i trošenje. Registracija i narudžba kartice je besplatna. N26 ima jednostavan sustav praćenja troškova s kojom  imate bolju organiziranost troškova. Jednostavnim klikom ste bliži do svoje prve E- banke.**
 
-Monese sigurna i jednostavna aplikacija za transfer sredstava i praćenje troškova. Odabirom Monese osigurajte si bolje planiranje troškova.
+
 
  ![](/images/keks.jpg)
 <table>
@@ -188,6 +188,7 @@ KeksPay je Hrvatska aplikacija pomoću koje se šalje i prima novac na jednostav
 
 Monese sigurna i jednostavna aplikacija za transfer sredstava i praćenje troškova. Odabirom Monese osigurajte si bolje planiranje troškova.
 
+ ![](/images/monzo.png)
 <table>
   <tr>
    <td colspan="2" ><strong>Monzo</strong>
