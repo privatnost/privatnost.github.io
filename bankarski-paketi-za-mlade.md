@@ -137,7 +137,7 @@
    </td>
   </tr>
    </table>
-   ![](/images/otp.png)
+   ![](/images/otpbanka.png)
    <table>
 
   <tr>
