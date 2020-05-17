@@ -95,7 +95,7 @@
 
 Monese sigurna i jednostavna aplikacija za transfer sredstava i praćenje troškova. Odabirom Monese osigurajte si bolje planiranje troškova.
 
-
+ ![](/images/keks.jpg)
 <table>
   <tr>
    <td colspan="2" ><strong>KeksPay</strong>
