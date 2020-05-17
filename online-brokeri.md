@@ -237,7 +237,7 @@
 
 **Preporuka za forex investitore koji žele jednostavno sučelje i napredne alate za analizu**
 
-![](/images/trading.jpg)
+![](/images/trejd.png)
 <table>
   <tr>
    <td colspan="2" ><strong>Trading 212</strong>
