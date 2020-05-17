@@ -181,7 +181,6 @@
    </td>
   </tr>
   <tr>
-    ![](/images/erste.png)
    <td><strong>Erste banka</strong>
    </td>
   </tr>
@@ -219,7 +218,7 @@
   </tr>
   <tr>
    <td>
-
+ ![](/images/hpb.jpg)
 <table>
   <tr>
    <td><strong>Hrvatska poštanska banka</strong>
