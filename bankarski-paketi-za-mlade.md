@@ -88,9 +88,8 @@
    <td>
    </td>
   </tr>
-     </table> 
-   ![](images/raiffaisen.jpg)
-    <table>
+     </table> <table> 
+    ![](images/raiffaisen.jpg)
    
   <tr>
    <td><strong>Raiffeissen Bank</strong>
