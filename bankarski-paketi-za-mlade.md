@@ -220,8 +220,6 @@ layout: custom
    <td>Trošak: 0 kn
    </td>
   </tr>
-  <tr>
-   <td>
       </table>
       
          ![](/images/hpb.jpg)
