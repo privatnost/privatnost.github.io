@@ -2,45 +2,30 @@
  
 <table>
   <tr>
-   <td><strong>ZABA</strong>
+   <td>                                          <strong>Coinbase</strong>
    </td>
   </tr>
   <tr>
-   <td>Mogućnost korištenja neograničenog broja opunomoćenika po svakom računu u paketu
+   <td>Trguj s najpoznatijim kriptovalutama u svijetu
    </td>
   </tr>
   <tr>
-   <td>Mastercard Student kreditna kartica za redovite i izvanredne studente 
+   <td>Upravljaj sa svojim portfoliom kriptovaluta 
    </td>
   </tr>
   <tr>
-   <td>Prešutno prekoračenje do 10.000 kn po kunskom tekućem računu na temelju redovitog prihoda
+   <td>Zaradi do 150 $ gledajući edukativne materijale o blockchain-u i kriptovalutama 
    </td>
   </tr>
   <tr>
-   <td>Obročno plaćanje Maestro karticom
+   <td>Registriraj svoj e-novčanik za kriptovalute
    </td>
   </tr>
   <tr>
-   <td><em>On-line</em> bankarstvo (m-zaba i e-zaba)
-   </td>
-  </tr>
-  <tr>
-   <td>Servis centar: pomoć na cesti i putno osiguranje u inozemstvu
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Trošak: 7 kn mjesečno
-   </td>
-  </tr>
-  <tr>
-   <td>
+   <td>Najpouzdaniji tečaj kriptovaluta u svijetu 
    </td>
   </tr>
    </table>
    ![](/images/pbz.png)
    <table>
+ **Ako te zanima bitcoin i kriptovalute registriraj se na Coinbase stranicu i kupis svoju prvu kriptovalutu.**
