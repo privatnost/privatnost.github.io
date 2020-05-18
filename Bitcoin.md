@@ -1,8 +1,10 @@
 # Kriptovalute
+
+ ![](/images/bitcoin1.png)
  
 <table>
   <tr>
-   <td>                                          <strong>Coinbase</strong>
+   <td> <strong>Coinbase</strong>
    </td>
   </tr>
   <tr>
@@ -27,6 +29,5 @@
   </tr>
    </table>
    
-   ![](/images/bitcoin.png)
  
  ** Ako te zanima bitcoin i kriptovalute registriraj se na Coinbase stranicu i kupi svoju prvu kriptovalutu.**
