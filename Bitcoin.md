@@ -30,4 +30,4 @@
    </table>
    
  
- ** Ako te zanima bitcoin i kriptovalute registriraj se na Coinbase stranicu i kupi svoju prvu kriptovalutu.**
+ **Ako te zanima bitcoin i kriptovalute registriraj se na Coinbase stranicu i kupi svoju prvu kriptovalutu.**
