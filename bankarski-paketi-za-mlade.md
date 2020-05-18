@@ -220,6 +220,10 @@
   </tr>
   <tr>
    <td>
+      </table>
+      
+         ![](/images/hpb.jpg)
+
 <table>
   <tr>
    <td><strong>Hrvatska poštanska banka</strong>
