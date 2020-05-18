@@ -30,4 +30,4 @@
    </table>
    
  
- **Ako te zanima bitcoin i kriptovalute registriraj se na Coinbase stranicu i kupi svoju prvu kriptovalutu.**
+ **Coinbase je najveća platforma za trgovanje kriptovaluta. Ako te zanima bitcoin i kriptovalute registriraj se na Coinbase stranicu i kupi svoju prvu kriptovalutu.**
