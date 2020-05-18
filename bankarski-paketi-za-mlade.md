@@ -176,10 +176,12 @@
    <td>Trošak: 0 kn
    </td>
   </tr>
-  <tr>
-   <td>
-   </td>
-  </tr>
+
+</table> 
+   ![](/images/erste.png)
+
+<table>
+
   <tr>
    <td><strong>Erste banka</strong>
    </td>
