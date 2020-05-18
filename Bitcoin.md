@@ -26,6 +26,7 @@
    </td>
   </tr>
    </table>
-   ![](/images/pbz.png)
+   ![](/images/bitcoin.png)
    <table>
- **Ako te zanima bitcoin i kriptovalute registriraj se na Coinbase stranicu i kupis svoju prvu kriptovalutu.**
+ 
+ ** Ako te zanima bitcoin i kriptovalute registriraj se na Coinbase stranicu i kupis svoju prvu kriptovalutu.**
