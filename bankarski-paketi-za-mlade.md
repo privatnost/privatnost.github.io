@@ -266,11 +266,6 @@ layout: custom
 </table>
 
 
-   </td>
-  </tr>
-</table>
-
-
 **Tekući račun** je transakcijski račun koji banka otvara na zahtjev potrošača u svrhu primanja redovitih ili povremenih uplata i obavljanja isplata u granicama raspoloživih sredstava na računu. Pritom se u raspoloživa sredstva uključuje i iznos dopuštenog minusa
 
 **Žiro račun** potrošačima tradicionalno služi za uplatu primanja poput rente ili honorara, kao i za primanja u slučaju da ste član nekog odbora te sukladno tome primate naknadu po sastanku ili proviziju. Koristi se i u idućim slučajevima: ako ostvarujete prihod putem obrta ili drugih samostalnih djelatnosti, ako ste potpisali ugovor o djelu ili autorskom radu te primate honorar i u sličnim situacijama. Za maloljetnike se otvara u svrhu ostvarivanja priljeva na osnovi stipendija, nagrada učenika na natjecanjima te rada učenika i studenata u servisima/udrugama, na sezonskim ili drugim sličnim poslovima.
