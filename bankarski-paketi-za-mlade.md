@@ -219,7 +219,7 @@
   </tr>
       </table>
       
-         ![](/images/hpb.jpg)
+![](/images/hpb.jpg)
 
 <table>
   <tr>
