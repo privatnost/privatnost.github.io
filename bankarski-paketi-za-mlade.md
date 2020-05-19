@@ -221,7 +221,7 @@
   </tr>
       </table>
       
- <img src="images/hpb1.png" width="580" height="250">
+ <img src="images/hpb1.png" width="580" height="200">
 <table>
   <tr>
    <td><strong>Hrvatska poštanska banka</strong>
