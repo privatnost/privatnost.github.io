@@ -2,7 +2,7 @@
    ![](/images/zagrebacka-banka.jpg)
 
 
-<table>
+<tables tyle="float: right;">
   <tr>
    <td><strong>ZABA</strong>
    </td>
