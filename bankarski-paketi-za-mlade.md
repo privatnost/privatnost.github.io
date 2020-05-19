@@ -44,8 +44,8 @@
    </td>
   </tr>
    </table>
-  
-   ![](/images/pbz.png)
+   
+ <img src="images/pbz.png" width="700">
    <table>
 
 <tr>
