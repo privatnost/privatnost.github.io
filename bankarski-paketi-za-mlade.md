@@ -1,6 +1,6 @@
 **Bankarski paketi za mlade**
 
-<img src="images/zagrebacka-banka.jpg" width="580" height="400">
+<img src="images/zagrebacka-banka.jpg" width="580" height="350">
  
 <table>
   <tr>
