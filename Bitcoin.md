@@ -1,6 +1,6 @@
 # Kriptovalute
 
- ![](/images/bitcoin1.png |  width="200")
+ ![](/images/bitcoin1.png | width="200")
  
 <table>
   <tr>
