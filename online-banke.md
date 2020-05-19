@@ -95,7 +95,7 @@
 **N26 je mobilno bankarstvo koje omogućava prijenos sredstava, štednju i trošenje. Registracija i narudžba kartice je besplatna. N26 ima jednostavan sustav praćenja troškova s kojom  imate bolju organiziranost troškova. Jednostavnim klikom ste bliži do svoje prve E- banke.**
 
 
-<img src="keks.jpg" width="520" height="350">
+<img src="keks.jpg" width="520" height="400">
 <table>
   <tr>
    <td colspan="2" ><strong>KeksPay</strong>
