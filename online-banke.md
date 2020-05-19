@@ -1,6 +1,6 @@
 # E- banke
 
-<img src="images/revolut1.png" width="520" height="350">
+<img src="images/revolut1.png" width="600" height="250">
 <table>
   <tr>
    <td colspan="2" ><strong>Revolut</strong>
