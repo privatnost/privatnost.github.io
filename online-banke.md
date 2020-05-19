@@ -157,7 +157,7 @@
   <tr>
    <td>Trošak naručivanja kartice
    </td>
-   <td>trošak poštarine
+   <td>Trošak poštarine
    </td>
   </tr>
   <tr>
@@ -203,7 +203,7 @@
   <tr>
    <td>Trošak naručivanja kartice
    </td>
-   <td>trošak poštarine
+   <td>Trošak poštarine
    </td>
   </tr>
   <tr>
