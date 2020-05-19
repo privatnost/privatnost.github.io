@@ -2,7 +2,7 @@
    ![](/images/zagrebacka-banka.jpg)
 
 
-<table>
+<table style="right: left">
   <tr>
    <td><strong>ZABA</strong>
    </td>
