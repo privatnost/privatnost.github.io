@@ -1,6 +1,6 @@
 # Kriptovalute
 
-<img src="images/bitcoin1.png" width="500">
+<img src="images/bitcoin1.png" width="700">
 
 
 <table>
