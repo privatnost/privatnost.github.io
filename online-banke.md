@@ -189,7 +189,7 @@
 
 **Monese sigurna i jednostavna aplikacija za transfer sredstava i praćenje troškova. Odabirom Monese osigurajte si bolje planiranje troškova.**
 
-![](images/monzo.png)
+![](images/mozo.png)
 
 <table>
   <tr>
