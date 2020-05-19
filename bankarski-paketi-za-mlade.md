@@ -138,7 +138,7 @@
    </td>
   </tr>
    </table>
-    <img src="images/o11.png" width="580" height="250">
+    <img src="images/o11.png" width="580" height="310">
    <table>
 
   <tr>
