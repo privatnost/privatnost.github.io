@@ -1,5 +1,6 @@
 # E- banke
- ![](/images/revolut1.png)
+
+<img src="images/revolut1.png" width="520" height="350">
 <table>
   <tr>
    <td colspan="2" ><strong>Revolut</strong>
@@ -46,7 +47,7 @@
 
 **S revolutom bolje upravljate novcem zbog opcije analiza potrošnje. Slanje novca diljem svijeta bez skrivenih naknada nikad nije bilo jednostavnije. Možete kupovati zlato, kriptovalute i dionice. Revolut ima jak sustav borbe protiv prijevara, jednostavnim klikom registrirajte se i zakoračite u svijet novca.**
 
- ![](/images/n26.jpg)
+<img src="images/n26.jpg" width="520" height="350">
 <table>
   <tr>
    <td colspan="2" ><strong>N26</strong>
@@ -94,8 +95,7 @@
 **N26 je mobilno bankarstvo koje omogućava prijenos sredstava, štednju i trošenje. Registracija i narudžba kartice je besplatna. N26 ima jednostavan sustav praćenja troškova s kojom  imate bolju organiziranost troškova. Jednostavnim klikom ste bliži do svoje prve E- banke.**
 
 
-
- ![](/images/keks.jpg)
+<img src="keks.jpg" width="520" height="350">
 <table>
   <tr>
    <td colspan="2" ><strong>KeksPay</strong>
@@ -142,7 +142,7 @@
 
 **KeksPay je Hrvatska aplikacija pomoću koje se šalje i prima novac na jednostavan i siguran način bez ikakvih naknada i dugačkih upisivanja šifri. Klikom na: registrirajte se ! olakšajte si  buduće transakcije.**
 
- ![](/images/monese.png)
+<img src="monese.png" width="520" height="350">
 <table>
   <tr>
    <td colspan="2" ><strong>Monese</strong>
@@ -188,7 +188,7 @@
 
 **Monese sigurna i jednostavna aplikacija za transfer sredstava i praćenje troškova. Odabirom Monese osigurajte si bolje planiranje troškova.**
 
- ![](/images/mozo.png)
+<img src="mozo.png" width="520" height="350">
 <table>
   <tr>
    <td colspan="2" ><strong>Monzo</strong>
