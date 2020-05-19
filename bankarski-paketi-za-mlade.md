@@ -45,7 +45,7 @@
   </tr>
    </table>
    
- <img src="images/pbz.png" width="700">
+ <img src="images/pbz.png" width="700" height="350">
    <table>
 
 <tr>
@@ -90,7 +90,7 @@
   </tr>
    </table> 
    
- <img src="images/raiffaisen.jpg" width="580">
+ <img src="images/raiffaisen.jpg" width="580" height="350">
    <table>
    
   <tr>
@@ -138,7 +138,7 @@
    </td>
   </tr>
    </table>
-    <img src="images/o11.png" width="580">
+    <img src="images/o11.png" width="580" height="350">
    <table>
 
   <tr>
@@ -179,7 +179,7 @@
   </tr>
 
 </table> 
-<img src="images/erste.png" width="580">
+<img src="images/erste.png" width="580" height="350">
 
 <table>
 
@@ -221,7 +221,7 @@
   </tr>
       </table>
       
- <img src="images/hpb1.png" width="580">
+ <img src="images/hpb1.png" width="580" height="350">
 <table>
   <tr>
    <td><strong>Hrvatska poštanska banka</strong>
