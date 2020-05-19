@@ -48,6 +48,7 @@
    <table>
 
 <tr>
+   <td>Row 1 Column 1</td><td>Row 1 Column 2</td>
    <td><strong>PBZ</strong>
    </td>
   </tr>
