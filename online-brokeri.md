@@ -143,7 +143,7 @@
 
 **Preporuka se za investitore koje zanima društveno investiranje (kopiranje drugih investitora na tržištu)**
 
-![](/images/tradestation.png)
+<img src="images/tradestation.png" width="350" height="350">
 <table>
   <tr>
    <td colspan="2" ><strong>Trade station</strong>
