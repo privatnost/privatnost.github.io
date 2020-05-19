@@ -138,7 +138,7 @@
    </td>
   </tr>
    </table>
-   ![](/images/otp1.png)
+    <img src="images/otp1.png" width="700">
    <table>
 
   <tr>
@@ -179,7 +179,7 @@
   </tr>
 
 </table> 
-   ![](/images/erste.png)
+<img src="images/erste.png" width="700">
 
 <table>
 
@@ -221,8 +221,7 @@
   </tr>
       </table>
       
-![](/images/hpb.jpg)
-
+ <img src="images/hpb.jpg" width="700">
 <table>
   <tr>
    <td><strong>Hrvatska poštanska banka</strong>
