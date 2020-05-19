@@ -2,7 +2,7 @@
 
 **Putem jednostavne registracije zakoračite u svijet investiranja na globalnom tržištu. Trgujte različitim financijskim instrumentima, koristite alate za različite analize, investirajte radi špekulativnih razloga ili dugoročnog ulaganja**
 
-<img src="images/interactive brokers.png" width="800" height="350">
+<img src="images/interactive brokers.png" width="900" height="350">
 <table>
   <tr>
    <td colspan="2" ><strong>Interactive Brokers</strong>
