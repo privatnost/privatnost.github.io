@@ -89,7 +89,8 @@
    </td>
   </tr>
    </table> 
-   ![](images/raiffaisen.jpg)
+   
+ <img src="images/raiffaisen.jpg" width="700">
    <table>
    
   <tr>
