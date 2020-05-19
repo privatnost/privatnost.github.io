@@ -187,8 +187,8 @@
 </table>
 
 **Monese sigurna i jednostavna aplikacija za transfer sredstava i praćenje troškova. Odabirom Monese osigurajte si bolje planiranje troškova.**
-<img src="mozo.png" width="520" height="350">
 
+<img src="mozo.png" width="520" height="350">
 <table>
   <tr>
    <td colspan="2" ><strong>Monzo</strong>
