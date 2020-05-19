@@ -1,8 +1,7 @@
 **Bankarski paketi za mlade**
    ![](/images/zagrebacka-banka.jpg)
 
-<div>
-<table style="float: right">
+
   <tr>
    <td><strong>ZABA</strong>
    </td>
@@ -44,7 +43,7 @@
    </td>
   </tr>
    </table>
-   </div>
+  
    ![](/images/pbz.png)
    <table>
 
