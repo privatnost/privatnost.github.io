@@ -1,8 +1,8 @@
 **Bankarski paketi za mlade**
 
 <img src="images/zagrebacka-banka.jpg" width="520" height="350">
- <div>
-<table style="float: right">
+
+<table>
   <tr>
    <td><strong>ZABA</strong>
    </td>
@@ -46,7 +46,7 @@
    </table>
    
  <img src="images/pbz.png" width="520" height="350">
-   <table style="float: right">
+   <table>
 
 <tr>
    <td><strong>PBZ</strong>
@@ -89,7 +89,7 @@
    </td>
   </tr>
    </table> 
-   </div>
+   
  <img src="images/raiffaisen.jpg" width="520" height="350">
    <table>
    
